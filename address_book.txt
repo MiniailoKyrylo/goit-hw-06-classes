@@ -1,0 +1,5 @@
+1,Jane,+380501111111,jane@gmail.com,
+2,Max,+380502222222;+380992222222,max@gmail.com;max@meta.ua,
+3,Ivan,,,
+5,Alex,+380503333333,,
+7,Julia,,julia@meta.ua,
